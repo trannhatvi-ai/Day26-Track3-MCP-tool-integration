@@ -1,0 +1,3 @@
+[mcp_servers.sqlite_lab]
+command = "py"
+args = ["D:/AI_thucchien/Day26/Day26-Track3-MCP-tool-integration/implementation/mcp_server.py"]
